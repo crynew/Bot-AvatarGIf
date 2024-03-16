@@ -2,7 +2,7 @@
 
 # Atualização de Avatar Discord
 
-Este é um script Node.js simples para atualizar o avatar de um usuário Discord usando um arquivo de imagem local.
+Este é um script Node.js simples para atualizar o avatar do seu bot do Discord como Gif usando um arquivo de imagem local.
 
 ## Requisitos
 
