@@ -2,7 +2,7 @@ const fs = require('fs');
 const fetch = require('node-fetch');
 
 // Caminho do arquivo de avatar a ser atualizado ( arquivo tem q ser .gif )
-const filePath = '';
+const filePath = 'space.gif';
 
 // Token do bot
 const token = '';
