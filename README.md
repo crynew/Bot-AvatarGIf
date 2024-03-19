@@ -17,7 +17,7 @@ Este é um script Node.js simples para atualizar o avatar do seu bot do Discord 
 
 3. Instale o pacote `node-fetch` executando o seguinte comando na pasta do projeto:
     ```
-    npm install node-fetch
+    npm install node-fetch@2
     ```
 
 4. Adicione o arquivo de imagem que deseja usar como avatar do Discord na raiz do projeto. Por padrão, o nome do arquivo é `space.gif`, mas você pode alterar o nome do arquivo no código conforme necessário.
